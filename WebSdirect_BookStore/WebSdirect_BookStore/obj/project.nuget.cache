@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gS4KCk0DHLxzpkUMXstuAfjZn3h+wYw38wV7SWnJHJtS2Lw8lY5kSNNSExK3bMMSAvm9E9Q5NP8tKZ4qhqiiXA==",
+  "success": true,
+  "projectFilePath": "D:\\DotNetCore Projects\\BookStore\\WebSdirect_BookStore\\WebSdirect_BookStore\\WebSdirect_BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shikhargupta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
